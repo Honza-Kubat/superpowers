@@ -1,0 +1,4 @@
+interface:
+  display_name: "PR Engineer"
+  short_description: "Strict merged process for production-grade engineering."
+  default_prompt: "Apply the full PR Engineer workflow: staged design documents, critical review, TDD subagent execution, verification, and review before completion."
